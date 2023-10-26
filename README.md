@@ -41,5 +41,5 @@ End result will be a request to `https://www.example.com/users` without the CORS
 
 | Option         | Example               | Default |
 | -------------- | --------------------- | ------: |
-| --proxyUrl     | https://www.google.ie |         |
+| --proxyUrl     | https://example.com   |         |
 | --port         | 8010                  |    8080 |
